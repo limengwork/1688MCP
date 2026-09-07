@@ -19,7 +19,7 @@
 
 ### 下载
 
-从 [Releases](https://github.com/limengwork/1688-mcp/releases) 下载最新版本
+从 [Releases](https://github.com/limengwork/1688MCP/releases/tag/v1.0.0) 下载最新版本
 
 ### 从源码编译
 
