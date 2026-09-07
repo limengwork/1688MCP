@@ -21,7 +21,7 @@ A Model Context Protocol (MCP) server for 1688 (Alibaba's wholesale platform). S
 
 ### Download
 
-Download the latest release from [Releases](https://github.com/yourusername/1688-mcp/releases)
+Download the latest release from [Releases](https://github.com/limengwork/1688MCP/releases/tag/v1.0.0)
 
 ### Build from Source
 
