@@ -1,0 +1,38 @@
+# 依赖目录
+vendor/
+
+# 编译输出
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 测试二进制文件
+*.test
+
+# 输出 Go 工具
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 项目特定
+user_data/
+debug_*.png
+detail_dump.exe
+cankao.html
+*.bak
+*.log
